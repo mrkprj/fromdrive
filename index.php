@@ -10,11 +10,11 @@
                         data-horizontal="7%" data-vertical="0"
                         data-show-transition="left" data-show-delay="1000" data-width="55%">
                         <h2 class="light-colortext">DIGITAL MARKETING STRATEGY</h2>
-                        <p class="light-colortext">Today still wanted by the government they survive as soldiers of fortune. That this group would somehow form a family that's the way.</p>
-                        <div class="buttons-wrap">
+                        <p class="light-colortext">Digital marketing requires planning to get a clear direction. This helps to focus the necessary time and resources on relevant tasks.</p>
+                        <!-- <div class="buttons-wrap">
                            <a class="btn btn-secondary" href="#">Parchase&nbsp;&nbsp;<i class="fa fa-long-arrow-right"></i></a>
                            <a class="btn btn-light" href="#">Get Started&nbsp;&nbsp; <i class="fa fa-long-arrow-right"></i></a>
-                        </div>
+                        </div> -->
                      </div>
                      <!-- welcome-text -->
                   </div>
@@ -25,11 +25,11 @@
                         data-horizontal="7%" data-vertical="25%"
                         data-show-transition="left" data-show-delay="1000"  data-width="55%">
                         <h2 class="light-colortext">SOCIAL MEDIA STRATEGY</h2>
-                        <p class="light-colortext">Today still wanted by the government they survive as soldiers of fortune. That this group would somehow form a family that's the way.</p>
-                        <div class="buttons-wrap">
+                        <p class="light-colortext">Social media has become an important part of our daily lives. Strategizing social media campaigns helps you directly target potential customers and turn them into leads.</p>
+                        <!-- <div class="buttons-wrap">
                            <a class="btn btn-secondary" href="#">Parchase&nbsp;&nbsp;<i class="fa fa-long-arrow-right"></i></a>
                            <a class="btn btn-light" href="#">Get Started&nbsp;&nbsp; <i class="fa fa-long-arrow-right"></i></a>
-                        </div>
+                        </div> -->
                      </div>
                      <!-- welcome-text -->
                   </div>
@@ -39,12 +39,12 @@
                      <div class="welcome-text sp-layer"  data-position="topLeft"
                         data-horizontal="7%" data-vertical="25%"
                         data-show-transition="left" data-show-delay="1000"  data-width="55%">
-                        <h2 class="light-colortext">PAID SEARCH STRATEGY</h2>
-                        <p class="light-colortext">Today still wanted by the government they survive as soldiers of fortune. That this group would somehow form a family that's the way.</p>
-                        <div class="buttons-wrap">
+                        <h2 class="light-colortext">Search Engine Optimization Strategy</h2>
+                        <p class="light-colortext">Search engines are still predominantly used by customers to find the products and services they are looking for. Search engine optimization is the best way to pull traffic to your website for free.</p>
+                        <!-- <div class="buttons-wrap">
                            <a class="btn btn-secondary" href="#">Parchase&nbsp;&nbsp;<i class="fa fa-long-arrow-right"></i></a>
                            <a class="btn btn-light" href="#">Get Started&nbsp;&nbsp;<i class="fa fa-long-arrow-right"></i></a>
-                        </div>
+                        </div> -->
                      </div>
                      <!-- welcome-text -->
                   </div>
@@ -58,12 +58,11 @@
       </header>
       <!-- End-Header -->
 
-      <!-- Section start -->
+      <!-- <!-- Section start -->
       <section class="padding-large-bottom padding-large-top padding-small-left-right"><!-- Service-Style-1 -->         
          <div class="welcome-text text-center wow fadeInUp" data-wow-duration="0.5s"> <!-- welcome-text -->
-            <h2>Welcome to <span>Digital Guru</span></h2>
-            <p>Then along come two they got nothing but their jeans got kind of tired packing and unpacking town to town and up and down the dial making your way in the world three company too straightning the curves flatning the hills someday the mountain might but the law never will a man is born he is a man of means.
-            </p>
+            <h2>Welcome to <span>Fromdrive</span></h2>
+            <p>Fromdrive operates with a goal to help you increase traction to your business. At Fromdrive, we help strategize your digital content to be a cut above your competitors to help you stand out. With our dedicated team of experts working on your search engine optimization, social media marketing and digital branding, you can rest assured.</p>
          </div>
          <div class="service-policy ">
             <div class="row">
@@ -73,9 +72,9 @@
                      <div class="icon-circle-wrap img-circle">
                         <i class="fa fa-database"></i>
                      </div>
-                     <h3>What We Do</h3>
-                     <p>Then along come they g but their jeans got kind of tired packing to unpacking unpacking unpacking dial making your  three company too straightning.</p>
-                     <a href="#" class="btn btn-secondary-alt view-more">View More  <i class="fa fa-long-arrow-right"></i></a>
+                     <h3>Planning</h3>
+                     <p>All good digital marketing strategies need excellent planning.</p>
+                     <!-- <a href="#" class="btn btn-secondary-alt view-more">View More  <i class="fa fa-long-arrow-right"></i></a> -->
                   </div>
                   <!-- .service -->
                </div>
@@ -87,9 +86,9 @@
                      <div class="icon-circle-wrap img-circle">
                         <i class="fa fa-database"></i>
                      </div>
-                     <h3>What We Do</h3>
-                     <p>Then along come they g but their jeans got kind of tired packing to unpacking unpacking unpacking dial making your  three company too straightning.</p>
-                     <a href="#" class="btn btn-secondary-alt view-more">View More  <i class="fa fa-long-arrow-right"></i></a>
+                     <h3>Execution </h3>
+                     <p>Digital content needs to be published at the right place and at the right time.</p>
+                     <!-- <a href="#" class="btn btn-secondary-alt view-more">View More  <i class="fa fa-long-arrow-right"></i></a> -->
                   </div>
                   <!-- .service -->
                </div>
@@ -101,9 +100,9 @@
                      <div class="icon-circle-wrap img-circle">
                         <i class="glyphicon glyphicon-star-empty" aria-hidden="true"></i>
                      </div>
-                     <h3>What We Do</h3>
-                     <p>Then along come they g but their jeans got kind of tired packing to unpacking unpacking unpacking dial making your  three company too straightning.</p>
-                     <a href="#" class="btn btn-secondary-alt view-more">View More  <i class="fa fa-long-arrow-right"></i></a>
+                     <h3>Monitoring</h3>
+                     <p>All digital campaigns need to be monitored to to make the best of your current campaign and can be used for future campaigns.</p>
+                     <!-- <a href="#" class="btn btn-secondary-alt view-more">View More  <i class="fa fa-long-arrow-right"></i></a> -->
                   </div>
                   <!-- .service -->
                </div>
@@ -127,14 +126,14 @@
             <div class="col-md-6 offer-description eq-height wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".25s">
                <div class="welcome-text">
                   <h2>Always afford a Best Output</h2>
-                  <p>Then along come two they got nothing but their jeans got kind of tired packing and unpacking town to town and up and down the first mate and his Skipper. 
+                  <p>It is your right to get the best output for the campaigns of your business. 
                   </p>
                </div>
                <!-- welcome-text -->
                <div class="col-md-6 offer-items1">
                   <div class="single-offer-item">
                      <h3><i class="fa fa-flask"></i> Real time results</h3>
-                     <p>You don’t have wait weeks for a boost to your bus like you would have to waiting for a fax or form to be returned.</p>
+                     <p>You don’t have wait weeks for a report regarding the performance of your campaigns.</p>
                   </div>
                   <div class="single-offer-item">
                      <h3><i class="glyphicon glyphicon-bullhorn" aria-hidden="true"></i> Simple to measure</h3>
@@ -148,7 +147,7 @@
                   </div>
                   <div class="single-offer-item">
                      <h3><i class="fa fa-flask"></i>  Brand Development</h3>
-                     <p>A well maintained website with quality  conttent targgeti the needs adding value to your  audience can provide significant value and generate opportunities.</p>
+                     <p>A well maintained website with quality content targeting the needs and adding value to your audience can provide significant value and generate opportunities.</p>
                   </div>
                </div>
             </div>
@@ -164,8 +163,8 @@
          <div class="featured-area">
             <div class="container">
                <div class="welcome-text text-center wow fadeInUp" data-wow-duration="0.5s">
-                  <h2>Get a Front Page <span>Listing on Google</span></h2>
-                  <p>Then along come two they got nothing but their jeans got kind of tired packing and unpacking town to town and up and down the dial making your way in the world three company too straightning the curves.
+                  <h2>Get a Front Page Listing on <span>Search Engines</span></h2>
+                  <p>Businesses which rank on the first page of Search Engines get 95% of the search traffic. Ranking on the first page of Search Engines is imperitave for any business.
                   </p>
                </div>
                <!-- welcome-text -->
@@ -270,8 +269,7 @@
       <!-- section End-->
 
       <!-- Section start -->
-      <section class="dark-bg padding-medium-top-bottom">
-         <!-- request-a-callback-style-1  -->
+      <!-- <section class="dark-bg padding-medium-top-bottom">
          <div class="container">
             <div class="row request-a-callback">
                <div class="col-md-5">
@@ -280,7 +278,6 @@
                      <p>Do you have questions about how SEO can help your company? Send us an email in  and we ill get in touch shortly,   or phone 1-800 234 567 between 07:30 and 21:00 Monday to Friday, we would be delighted to speak.</p>
                   </div>
                </div>
-               <!-- col-md-5 close -->
                <div class="col-md-7">
                   <form>
                      <div class="row">
@@ -298,7 +295,6 @@
                            </select>
                         </div>
                      </div>
-                     <!-- .row -->
                      <div class="row">
                         <div class="col-md-6">
                            <label>Your Email</label>
@@ -309,79 +305,16 @@
                            <input type="text" name="phone" class="form-control" required>
                         </div>
                      </div>
-                     <!-- .row -->
                      <div class="submit-button">
                         <i class="fa fa-long-arrow-right"></i>
                         <input type="submit" value="Submit" class="btn btn-primary">
                      </div>
-                     <!-- submit-button -->
                   </form>
-                  <!-- form -->
                </div>
-               <!-- col-md-7 close -->
             </div>
-            <!-- row close -->
          </div>
-         <!-- .container --><!-- Request a Call Back -->
-      </section>
+      </section> -->
       <!-- section End-->
-
-      <!-- Section start -->
-      <section class="padding-large-top">
-         <div class="container">
-            <div class="welcome-text text-center wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".25s">
-               <h2>What our Client Says</h2>
-               <p>Then along come two they got nothing but their jeans got kind of tired packing </p>
-            </div>
-            <!-- .welcome-text-->
-            <div class="testimonial-carousel">
-               <div class="testimonial-item wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
-                  <div class="row display-table">
-                     <div class="col-md-8 verticla-align-middle text-right">
-                        <div class="client-say">
-                           <p>“The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest thank you for being a friend travelled down the road and back again your heart is true you're a pal and a confidant.”</p>
-                           <div class="client-name">
-                              <p><span>Maria Cynthia</span><br>Co-Founder, Eden Fabrics</p>
-                           </div>
-                        </div>
-                        <!-- client-say close -->
-                     </div>
-                     <!-- col-md-8 close -->
-                     <div class="col-md-4 verticla-align-middle">
-                        <div class="client-say-image">
-                           <img src="img/clients0img.png" alt="image">
-                        </div>
-                     </div>
-                  </div>
-                  <!-- .row-->
-               </div>
-               <div class="testimonial-item wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
-                  <div class="row display-table">
-                     <div class="col-md-8 verticla-align-middle text-right">
-                        <div class="client-say">
-                           <p>“The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest thank you for being a friend travelled down the road and back again your heart is true you're a pal and a confidant.”</p>
-                           <div class="client-name">
-                              <p><span>Maria Cynthia</span><br>Co-Founder, Eden Fabrics</p>
-                           </div>
-                        </div>
-                        <!-- client-say close -->
-                     </div>
-                     <!-- col-md-8 close -->
-                     <div class="col-md-4 verticla-align-middle">
-                        <div class="client-say-image">
-                           <img src="img/clients0img.png" alt="image">
-                        </div>
-                     </div>
-                  </div>
-                  <!-- .row-->
-               </div>
-            </div>
-            <!-- .testimonial-slider--> 
-         </div>
-         <!-- container close --><!-- our Client Says style-1 -->
-      </section>
-      <!-- section End-->
-
       <!-- Section start -->
       <div class="primary-bg no-padding">
          <!-- progressing-work section -->
@@ -392,7 +325,7 @@
                      <span class="progress-work-icon">
                      <i class="pe-7s-users"></i>
                      </span>
-                     <div class="counter large-text">1255</div>
+                     <div class="counter large-text">52</div>
                      <p>SATISFIED CLIENTS</p>
                   </div>
                </div><!-- col-md-3 close -->
@@ -402,7 +335,7 @@
                      <span class="progress-work-icon">
                      <i class="pe-7s-science"></i>
                      </span>
-                     <div class="counter large-text">520</div>
+                     <div class="counter large-text">418</div>
                      <p>MARKETING GOALS</p>
                   </div>
                </div><!-- col-md-3 close -->
@@ -412,7 +345,7 @@
                      <span class="progress-work-icon">
                      <i class="pe-7s-portfolio"></i>
                      </span>
-                     <div class="counter large-text">180</div>
+                     <div class="counter large-text">12</div>
                      <p>PROFESSIONALS</p>
                   </div>
                </div><!-- col-md-3 close -->
@@ -422,7 +355,7 @@
                      <span class="progress-work-icon">
                      <i class="pe-7s-star"></i>
                      </span>
-                     <div class="counter large-text">15</div>
+                     <div class="counter large-text">7</div>
                      <p>YEARS OF EXPERTISE</p>
                   </div>
                </div><!-- col-md-3 close -->
@@ -444,205 +377,16 @@
             <div class="col-md-6 col-sm-6 text-left verticla-align-middle wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".25s">
                <div class="working-formula-description"><!-- working-formula-description -->
                   <h2>Its our <span>Simple Formula</span></h2>
-                  <p>Then along come two  got nothing but their got kind  tired packing and unpacking town to town and  and down the dial  your way in the world three company too 
-                     straightning the  fleeing  the cylon tyranny the last Battlestar Galactica leads.  
-                  </p>
-                  <p>A rag tag fugitive fleet on a lonely quest a  planet known as earth sunday monday happy Days tues wednesday happy thursday friday happy days.</p>
-                  <div class="buttons-wrap">
+                  <p>To help increase traction to your website, we employ a simple but meticulous custom strategy based on your marketing goals. With the help of Search Engine Optimization, Search Engine Marketing, Social Media Optimization, Social Media Marketing, Email Marketing and other related digital marketing methods, we plan and execute our custom marketing strategies to fulfill the needs of your business.</p>
+                  <!-- <div class="buttons-wrap">
                      <a href="#" class="btn btn-primary">Get Started &nbsp;&nbsp;<i class="fa fa-long-arrow-right"></i></a>
                      <a href="#" class="btn btn-primary-alt">Free SEO Request&nbsp;&nbsp; <i class="fa fa-long-arrow-right"></i></a>
-                  </div>
+                  </div> -->
                </div><!-- working-formula-description close -->
             </div>
             <!-- col-md-6 close-->
          </div>
          <!-- row close -->
-      </section>
-      <!-- section End-->
-
-      <!-- Section start -->
-      <section class="dark-bg padding-large-top-bottom"><!-- contact-form-area-style-3  -->
-         <div class="contact-form-area ">
-            <div class="container">
-               <div class="row">
-                  <div class="col-md-6 col-sm-6">
-                     <div class="welcome-text">
-                        <h2>Get Started Now</h2>
-                        <p>Our awesome team are here ready to strap a rocket to your digital marketing campaigns, so what are you waiting for? Get in touch to find out more.</p>
-                     </div><!-- welcome-text -->
-                     <form>
-                        <div class="row">
-                           <div class="col-md-6">
-                              <input type="text" placeholder="First name*" class="form-control" required>
-                           </div>
-                           <div class="col-md-6">
-                              <input type="text" placeholder="Last name*" class="form-control" required>
-                           </div>
-                        </div>
-                        <!-- row -->
-                        <input type="text" placeholder="Website" class="form-control">
-                        <input type="text" placeholder="Email*" class="form-control" required>
-                        <input type="text" placeholder="Phone" class="form-control">
-                        <textarea name="comment" placeholder="Your Comments" class="form-control"></textarea>
-                        <div class="row cheakbox-button">
-                           <div class="col-md-8">
-                              <div class="checkbox">
-                                 <label>
-                                 <input type="checkbox" value="">
-                                 <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>
-                                 Receive Free Marketing Tips
-                                 </label>
-                              </div>
-                           </div>
-                           <div class="col-md-4">
-                              <div class="submit-button">
-                                 <i class="fa fa-long-arrow-right"></i>
-                                 <input type="submit" value="Submit" class="btn btn-primary">
-                              </div><!-- submit-button -->
-                           </div>
-                        </div><!-- row -->
-                     </form>
-                  </div><!-- col-md-6 -->  
-                  <div class="col-md-6 col-sm-6  text-center">
-                     <div class="branding clearfix">
-                        <p>Already Trusted by Amazing and Awesome Companies</p>
-                        <div class="col-md-6 col-sm-6 col-xs-6">
-                           <img src="img/barand/partner.png" alt="">
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-xs-6">
-                           <img src="img/barand/gentleman.png" alt="">
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-xs-6">
-                           <img src="img/barand/company.png" alt="">
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-xs-6">
-                           <img src="img/barand/authientic.png" alt="">
-                        </div>
-                     </div><!-- branding -->
-                     <div class="awareds clearfix">
-                        <p>We’ve won a awards thanks to the hard work of our team</p>
-                        <div class="col-md-6 col-sm-6 col-xs-6">
-                           <img src="img/barand/ima.png" alt="">
-                           <p>WINNER OF ima DESIGN CONTEST - 2014</p>
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-xs-6">
-                           <img src="img/barand/awards.png" alt="">
-                           <p>RUNNER OF AWWWARDS DESIGN CONTEST - 2014</p>
-                        </div>
-                     </div><!-- awareds -->
-                  </div><!-- col-md-6 close-->
-               </div><!-- row close-->
-            </div><!-- container close -->
-         </div>
-      </section>
-      <!-- section End-->
-
-      <!-- Section start -->
-      <section class="light-bg-alt padding-large-top-bottom"><!-- pricing style-1 -->
-         <div class="container">
-            <div class="welcome-text text-center wow fadeInUp" data-wow-duration="0.5s">
-               <h2>Its our <span>Amazing Plans</span> </h2>
-               <p>Then along come two they got nothing but their jeans got kind of tired packing 
-               </p>
-            </div><!-- welcome-text -->
-            <div class="row text-center" >
-               <div class="col-md-4 col-sm-4 single-price-left">
-                  <div class="single-pricing wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".25s">
-                     <div class="price-head-price dark-bg">
-                        <h1>$29 <sup>per month</sup> </h1>
-                        <h4>Basic</h4>
-                     </div>
-                     <div class="price_menu">
-                        <ul>
-                           <li>26 Keyword</li>
-                           <li><del>No Time Tracking</del></li>
-                           <li>240 - Min Hour</li>
-                           <li><del>News Letter Available</del></li>
-                           <li><a href="#" class="btn btn-dark view-more">Purchase</a></li>
-                        </ul>
-                     </div><!-- price_menu -->     
-                  </div><!-- single-pricing -->
-               </div><!-- col-md-4  -->
-               <div class="col-md-4 col-sm-4 single-price-middle">
-                  <div class="single-pricing wow fadeIn" data-wow-duration="0.5s" data-wow-delay=".25s">
-                     <div class="price-head-price primary-bg">
-                        <h1>$49 <sup>per month</sup></h1>
-                        <h4>STANDARD</h4>
-                     </div>
-                     <div class="price_menu">
-                        <ul>
-                           <li>26 Keyword</li>
-                           <li>No Time Tracking</li>
-                           <li>240 - Min Hour</li>
-                           <li><del>News Letter Available</del></li>
-                           <li>50 Social Accounts</li>
-                           <li><a href="#" class="btn btn-secondary view-more">Purchase</a></li>
-                        </ul>
-                     </div><!-- price-menu -->
-                  </div> <!-- single-pricing -->
-               </div>
-               <!-- col-md-4  -->
-               <div class="col-md-4 col-sm-4 single-price-right">
-                  <div class="single-pricing wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".25s">
-                     <div class="price-head-price dark-bg">
-                        <h1>$29 <sup>per month</sup> </h1>
-                        <h4>Basic</h4>
-                     </div>
-                     <div class="price_menu">
-                        <ul>
-                           <li>26 Keyword</li>
-                           <li>No Time Tracking</li>
-                           <li>240 - Min Hour</li>
-                           <li>News Letter Available</li>
-                           <li><a href="#" class="btn btn-dark view-more">Purchase</a></li>
-                        </ul>
-                     </div><!-- price-menu -->   
-                  </div><!-- single-pricing -->
-               </div><!-- col-md-4  -->
-            </div><!-- row -->
-         </div><!-- container-area close-->
-      </section>
-      <!-- section End-->
-
-      <!-- Section start -->
-      <section class="padding-small-left-right"><!--    Add Area -->
-         <div class="advertise-area">
-            <div class="row display-table">
-               <div class="col-md-6 col-sm-6 text-right verticla-align-middle">
-                  <div class="advertise-image-holder wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".25s">
-                     <img src="img/addcenter.png" alt="">
-                  </div>
-               </div>
-               <div class="col-md-6 col-sm-6 text-left verticla-align-middle">
-                  <div class="add-description wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".25s">
-                     <div class="welcome-text">
-                        <h2>Get a <span>Digital Guru App</span></h2>
-                        <p>Then along come two they got nothing but their jeans got kind of tired packing </p>
-                     </div><!-- welcome-text -->
-                     <ul class="add">
-                        <li><a href="#"><i class="fa fa-arrow-circle-right"></i> Focus/Keyword suggestions </a></li>
-                        <li><a href="#"><i class="fa fa-arrow-circle-right"></i>Title Templating </a></li>
-                        <li><a href="#"><i class="fa fa-arrow-circle-right"></i>Advanced Meta Settings</a></li>
-                        <li><a href="#"><i class="fa fa-arrow-circle-right"></i>Google Page Speed Integration</a></li>
-                        <li><a href="#"><i class="fa fa-arrow-circle-right"></i>Sitemap Management</a></li>
-                        <li><a href="#"><i class="fa fa-arrow-circle-right"></i>SEO Issues Scan Suggestions</a></li>
-                     </ul>
-                     <!-- ul -->
-                     <ul class="app-store list-inline"><!-- app-store button -->
-                        <li>
-                           <a class="btn apple-store" href="#">
-                           <i class="fa fa-apple pull-left"></i> Available on <span>App Store</span></a>
-                        </li>
-                        <li>
-                           <a class="btn google-play" href="#">
-                           <img src="img/icon/google-play.png" class="pull-left" alt=""> Available on <span>Google Play</span></a>
-                        </li>
-                     </ul>
-                     <!-- ul -->
-                  </div><!-- add-description close-->
-               </div><!-- col-md-6 close-->
-            </div><!-- row close-->
-         </div>
       </section>
       <!-- section End-->
    <?php include 'footer.php' ?>

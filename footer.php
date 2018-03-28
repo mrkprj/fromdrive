@@ -6,17 +6,16 @@
                   <div class="col-md-4 col-sm-3">
                      <div class="widget">
                         <h3>About Us</h3>
-                         <a class="logo" href="index.html"><img src="img/logo.png" alt="Ad Center"></a>
+<!--                          <a class="logo" href="index.html"><img src="img/logo.png" alt="Ad Center"></a> -->
                         <p>
-                           Come aboard were expecting you. Love life's sweetest reward Let it flow it floats back to you. As long as we live its you and me baby. There ain't nothin' wrong with that.
+                           Fromdrive is a company with strategic Outsourcing solutions that renders multiple services like E-Commerce, Digital Marketing (SEO, SMO, PPC & etc), Content Writing, Web Designing & Web Hosting
                         </p>
                         <div class="social-icon">
                            <ul class="list-inline">
-                              <li><a class="img-circle" href="#"><i class="fa fa-facebook"></i></a></li>
-                              <li><a class="img-circle active" href="#"><i class="fa fa-twitter"></i></a></li>
-                              <li><a class="img-circle" href="#"><i class="fa fa-google-plus"></i></a></li>
-                              <li><a class="img-circle" href="#"><i class="fa fa-linkedin"></i></a></li>
-                              <li><a class="img-circle" href="#"><i class="fa fa-behance"></i></a></li>
+                              <li><a class="img-circle" href="https://www.facebook.com/Fromdrive/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                              <li><a class="img-circle active" href="https://twitter.com/fromdrive" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                              <li><a class="img-circle" href="https://plus.google.com/109037562427066900023" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                              <li><a class="img-circle" href="https://www.linkedin.com/company/fromdrive/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                            </ul>
                         </div>
                      </div> <!-- .widget -->                       
@@ -24,7 +23,7 @@
                   <!-- col-md-3 -->
                   <div class="col-md-2 col-sm-3">                        
                      <div class="widget">
-                        <h3>Quick links</h3>
+                        <h3>Our Services</h3>
                         <ul>
                            <li><a href="#">Virtual Marketing</a></li>
                            <li><a href="#">SEO Services</a></li>
@@ -37,35 +36,18 @@
                      </div> <!-- .widget -->                 
                   </div>
                   <!-- col-md-3 -->
-                  <div class="col-md-3 col-sm-3">
-                     <div class="widget">
-                        <h3>Latest News</h3>
-                        <ul class="recent-posts-list">
-                           <li>
-                              <img src="img/footer/recent1.png" alt="">
-                              <a href="#">Support systems and returns</a><span class="date primary-color">April 20, 2016</span>
-                           </li>
-                           <li>
-                              <img src="img/footer/recent2.png" alt="">
-                              <a href="#">Kinfolk said Jed move away</a><span class="date primary-color">April 20, 2016</span>
-                           </li>
-                           <li>
-                              <img src="img/footer/recent3.png" alt="">
-                              <a href="#">Some food and up through</a><span class="date primary-color">April 20, 2016</span>
-                           </li>
-                        </ul>
-                     </div> <!-- .widget -->                          
-                  </div>
+<!--                   <div class="col-md-3 col-sm-3">
+                  </div> -->
                   <!-- col-md-3 -->
                   <div class="col-md-3 col-sm-3">
                      <div class="widget">
                         <h3>Contact Us</h3>
                         <strong>Address</strong>
-                        <p>Adcenter, 06 Highley St,<br>Victoria, Australia.</p>
+                        <p>23, Kaliandas Udyog Bhavan, <br> Near Century Bazar, <br> Prabhadevi, <br> Mumbai, Maharashtra 400025</p>
                         <strong>Email Us</strong>
-                        <p>Info@Adcenter.Com<br>Support@Adcenter.Com</p>
+                        <p>info@fromdrive.com<br>harnish@fromdrive.com</p>
                         <strong>Call Us</strong>
-                        <p>+(10) 123 456 7896<br>+(10) 123 456 7896</p>
+                        <p>+(91) 9819032403 <br>+(91) 9892205515</p>
                      </div> <!-- .widget -->                
                   </div>
                   <!-- col-md-3 -->
@@ -77,7 +59,7 @@
             <div class="container">
                <div class="row ">
                   <div class="col-md-5 col-sm-5">
-                     <p>&copy; AdCenter Company 2016. All rights reserved</p>
+                     <p>Fromdrive <?php echo date('Y'); ?>. All rights reserved</p>
                   </div>
                   <!-- col-md-4  -->
                   <div class="col-md-2 col-sm-2 ">

@@ -3,7 +3,7 @@
    <head>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>AD Center</title>
+      <title>Fromdrive</title>
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- favicon -->
@@ -54,7 +54,7 @@
                            <div class="contact-info-inner">
                               <div class="info-icon expanded"><i class="pe-7s-mail-open"></i></div>
                               <p>Want An Quick Quote?</p>
-                              <P class="primary-color"><a href="#">INFO@ADCENTER.COM</a></P>
+                              <P class="primary-color">info@fromdrive.com</P>
                            </div>
                            <!-- .site-contact-info -->
                         </div>
@@ -62,15 +62,15 @@
                            <div class="contact-info-inner">
                               <div class="info-icon"><i class="pe-7s-phone"></i></div>                           
                               <p>Call us now</p>
-                              <P class="primary-color"><a href="tel:1-8002345678">+(01) 123 456 7896</a></P>
+                              <P class="primary-color">+(91) 9819032403 </P>
                            </div>
                            <!-- .site-contact-info -->
                         </div>
-                        <div class="col-md-4 col-sm-4 col-xs-4 text-right">
+                        <!-- <div class="col-md-4 col-sm-4 col-xs-4 text-right">
                            <div class="contact-info-inner">
                                <a href="contact.html" class="btn btn-primary">Get a Quote <i class="fa fa-long-arrow-right"></i></a>
                            </div>
-                        </div>
+                        </div> -->
                      </div>
                      <!-- .row -->
                   </div>
@@ -78,33 +78,6 @@
                <!-- row -->
             </div>
          </div><!-- logo-area -->
-
-
-         <div class="topbar-toggle">            
-            <div class="topbar-close">
-               <i class="pe-7s-close-circle"></i>
-            </div><!-- .topbar-close -->
-
-            <a class="logo" href="index.php"><img src="img/logo.png" alt="Ad Center"></a>
-
-            <div class="site-contact-info">
-               <div class="contact-info-inner">
-                  <div class="info-icon expanded"><i class="pe-7s-mail-open"></i></div>
-                  <p>Want An Quick Quote?</p>
-                  <P class="primary-color"><a href="#">INFO@ADCENTER.COM</a></P>
-               </div>  
-
-               <div class="contact-info-inner">
-                  <div class="info-icon"><i class="pe-7s-phone"></i></div>                           
-                  <p>Call us now</p>
-                  <P class="primary-color"><a href="tel:1-8002345678">+(01) 123 456 7896</a></P>
-               </div>
-
-               <div class="contact-info-inner">
-                   <a href="contact.html" class="btn btn-primary">Get a Quote <i class="fa fa-long-arrow-right"></i></a>
-               </div>
-            </div><!-- site-contact-info -->                 
-         </div>
 
          <div class="nav-area sticky-header">
             <div class="container">
@@ -149,7 +122,7 @@
                            </ul>
                         </li>                        
                         <li><a href="contact.html">Contact Us</a></li>                        
-                        <li class="search-box pull-right">
+                        <!-- <li class="search-box pull-right">
                            <a href="#"><i class="fa fa-search"></i></a>
                            <ul>
                               <li>
@@ -161,7 +134,7 @@
                                  </div>
                               </li>
                            </ul>
-                        </li>
+                        </li> -->
                         <!-- .search-box -->
                      </ul>
                      <!-- .menu -->
