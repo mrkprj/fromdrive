@@ -3,7 +3,7 @@
          <div class="widget-area">
             <div class="container">
                <div class="row">
-                  <div class="col-md-4 col-sm-3">
+                  <div class="col-md-4 col-sm-3 about-us">
                      <div class="widget">
                         <h3>About Us</h3>
 <!--                          <a class="logo" href="index.html"><img src="img/logo.png" alt="Ad Center"></a> -->
@@ -21,7 +21,7 @@
                      </div> <!-- .widget -->                       
                   </div>
                   <!-- col-md-3 -->
-                  <div class="col-md-2 col-sm-3">                        
+                  <div class="col-md-2 col-sm-3 our-services">                        
                      <div class="widget">
                         <h3>Our Services</h3>
                         <ul>
@@ -39,7 +39,7 @@
 <!--                   <div class="col-md-3 col-sm-3">
                   </div> -->
                   <!-- col-md-3 -->
-                  <div class="col-md-3 col-sm-3">
+                  <div class="col-md-3 col-sm-3 contact-us">
                      <div class="widget">
                         <h3>Contact Us</h3>
                         <strong>Address</strong>
@@ -70,9 +70,6 @@
                   <!-- col-md-4 -->
                   <div class="col-md-5 col-sm-5">
                      <ul class="list-inline">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="aboutus1.html">About</a></li>
-                        <li><a href="service1.html">Services</a></li>                        
                         <li><a href="#">Terms & Conditions</a></li>
                         <li><a href="#">Privacy policy</a></li>
                      </ul>

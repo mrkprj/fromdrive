@@ -3096,3 +3096,14 @@ a.start-trial:hover{
 .animated {
     visibility: visible;
 }
+.col-md-4.col-sm-3.about-us {
+    width: 40% !important;
+}
+.col-md-2.col-sm-3.our-services {
+    width: 35%;
+    padding-left: 10%;
+}
+
+.col-md-3.col-sm-3.contact-us {
+    width: 25%;
+}

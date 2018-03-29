@@ -29,19 +29,6 @@
    </head>
    <body>
       <header class="header-style1">
-         <div class="topbar-info-area">
-           <div class="container">
-             <div class="row">
-               <div class="col-md-6 col-sm-6 col-xs-6">
-                 <div class="logo"><a href="#"><img src="img/logo.png" alt="Scissors"></a></div>
-               </div>
-               <div class="col-md-6 col-sm-6 col-xs-6 text-right">              
-                 <div class="topbar-info"><i class="fa fa-ellipsis-v"></i></div>
-               </div>
-             </div>
-           </div>
-         </div>  <!-- topbar-info-area -->
-       
          <div class="logo-area">
             <div class="container">
                <div class="row">
@@ -88,32 +75,11 @@
                            <a href="index.php">Home</a>
                         </li>
                         <li>
-                           <a href="aboutus2.php">About Us</a>
+                           <a href="about-fromdrive.php">About Us</a>
                         </li>
                         <li>
-                           <a href="service2.php">Our Services</a>
-                        </li>
-                        <li>
-                           <a href="casestudies-1.html">Projects</a>
-                           <ul>
-                              <li><a href="casestudies-2.html">Casestudies version 2</a></li>
-                              <li><a href="casestudies-3.html">Casestudies version 3</a></li>
-                              <li><a href="casestudies-single.html">Casestudies-Details</a></li>
-                           </ul>
-                        </li>
-                        <li>
-                           <a href="#">Pages</a>
-                           <ul>
-                              <li>
-                                 <a href="resources1.html">Resources</a>
-                                 <ul>
-                                    <li><a href="resources-single.html">Resources-Details</a></li>
-                                 </ul>
-                              </li>
-                              <li><a href="404.html">404</a></li>
-                           </ul>
+                           <a href="services.php">Our Services</a>
                         </li>                        
-                        <li><a href="pricing.html">Pricing</a></li>
                         <li>
                            <a href="blog1.html">Latest news</a>
                            <ul>
