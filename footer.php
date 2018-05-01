@@ -25,13 +25,13 @@
                      <div class="widget">
                         <h3>Our Services</h3>
                         <ul>
-                           <li><a href="#">Virtual Marketing</a></li>
-                           <li><a href="#">SEO Services</a></li>
-                           <li><a href="#">Web Analytics</a></li>
-                           <li><a href="#">Web Development</a></li>
-                           <li><a href="#">Pay-per-click</a></li>
-                           <li><a href="#">Blog Management</a></li>
-                           <li><a href="#">Content Management</a></li>
+                           <li><a href="services.php">Virtual Marketing</a></li>
+                           <li><a href="services.php">SEO Services</a></li>
+                           <li><a href="services.php">Web Analytics</a></li>
+                           <li><a href="services.php">Web Development</a></li>
+                           <li><a href="services.php">Pay-per-click</a></li>
+                           <li><a href="services.php">Blog Management</a></li>
+                           <li><a href="services.php">Content Management</a></li>
                         </ul>
                      </div> <!-- .widget -->                 
                   </div>
