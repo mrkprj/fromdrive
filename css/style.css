@@ -3107,3 +3107,6 @@ a.start-trial:hover{
 .col-md-3.col-sm-3.contact-us {
     width: 25%;
 }
+.col-md-9, .col-md-7{
+    width: 100% !important;
+}

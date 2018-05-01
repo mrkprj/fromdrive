@@ -3,8 +3,8 @@
          <div class="resource-single">
             <div class="container">
                <div class="welcome-text text-center wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".45s">
-                  <h2>Update Digital Marketing tips every week</h2>
-                  <p>Then along come two they got nothing but their jeans got kind of tired packingthe Minnow would be lost flying away on a wing and a prayer. </p>
+                  <h2>About Fromdrive</h2>
+                  <p>"If you want something new, you have to do away with the old."</p>
                </div>
                <!-- welcome-text -->
                <div class="row resource-slider-section  text-left">
@@ -28,8 +28,8 @@
                   <div class="col-md-6 col-sm-12">
                      <div class="slide-details wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".25s">
                         <h3>Awesome Digital Upgrades</h3>
-                        <p>The weather started getting rough - the tiny ship was tossed. If not for the courage of the fearless crew the Minnow would be lost. there a Minnow would be lost. Flying away on a wing and a prayer.</p>
-                        <p>They really are a screm  are two Addams Family making your way in the world today takes everything you have got taking too a break from all your worries sure would help a lot the mate was a mghty a sailing the  man the Skipper brave and sure five passengers set sail that day for an there three hour tour a three hour tour he is gaining on you so you better look alive.</p>
+                        <p>Fromdrive was started with the vision to connect businesses with their potential customers in this day and age of digital technology. Fromdrive helps businesses to harness the power of the internet to grow in the direction they want to.</p>
+                        <p>With custom made plans for each individual business and a highly cohesive team of experts in search engine optimization, social media marketing and other related digital marketing methods, you can be rest assured that your marketing needs are in safe hands.</p>
                         <ul>
                            <li><i class="fa fa-check-square-o"></i> Identify your target audience’s needs</li>
                            <li><i class="fa fa-check-square-o"></i> Build a landing page for the subscription form</li>
@@ -43,9 +43,7 @@
                <!-- row -->
                <div class="row">
                   <div class="col-md-8 col-sm-8 wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".25s">
-                     <p>They really area scream the Addams Family speak  making your way in the world today takes everything you have got taking abreak from all your worries sure there would help a lot the mate was a mighty sailing man the Skipper brave and sure five passengers set sail that day for three hour tour a three hour tour he is gaining so you on you better look alive  to explore strange new worlds to seek out new life the are six at and new civiliza to boldly go where no man has gone before out new life and new civilizations.</p>
-                     <p>Tour a three hour tour he is gaining on you so you better look alive  too the explore strange new worlds to seek out new life and new civiliza to boldly go where no man has gone before out new life and new civilizations.</p>
-                     <p>They really are a scream the Addams Family got making your way in the world today takes everything you have got taking a break from all your worries sure would help a lot the mate. </p>
+                     <p>We work to fit each of our customers' individual needs by talking with them personally, and using their feedback to improve our services even more, as every company is built on it's clients. Backed by our strong quality processes and rich experience managing global clients across various business verticals, we align digital marketing strategies to achieve your business goals. </p>
                   </div>
                   <div class="col-md-4 col-sm-4">
                      <div class="resource-tools wow fadeInRight" data-wow-duration="0.5s" data-wow-delay=".25s">

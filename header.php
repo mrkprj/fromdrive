@@ -80,14 +80,14 @@
                         <li>
                            <a href="services.php">Our Services</a>
                         </li>                        
-                        <li>
+                        <!-- <li>
                            <a href="blog1.html">Latest news</a>
                            <ul>
                               <li><a href="blog2.html">Blog version 2</a></li>
                               <li><a href="blog-single.html">Blog-Single</a></li>                              
                            </ul>
-                        </li>                        
-                        <li><a href="contact.html">Contact Us</a></li>                        
+                        </li> -->                        
+                        <li><a href="contact.php">Contact Us</a></li>                        
                         <!-- <li class="search-box pull-right">
                            <a href="#"><i class="fa fa-search"></i></a>
                            <ul>
